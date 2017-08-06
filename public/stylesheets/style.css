@@ -20,7 +20,6 @@ body {
 #col h3 {
   color: #004400;
   text-align: center;
-  -webkit-text-stroke: 1px #88CC88;
   text-shadow: 1px 1px 1px #fff, 1px 1px 1px #fff;
   font-size: 27px;
 }
@@ -30,9 +29,6 @@ a {
   text-decoration: none;
 }
 
-#location.body {
-  text-align: center;
-}
 
 #col {
   text-align: center;
@@ -101,7 +97,6 @@ div#contact {
 .header {
   text-align: center;
   color: #801515;
-  -webkit-text-stroke: 1px #FFAAAA;
   text-shadow: 1px 1px 1px #FFFFFF, 1px 1px 1px #FFFFFF;
   font-size: 40px;
 }
@@ -190,7 +185,6 @@ div#contact {
 .menu-container h2 {
   color: #004400;
   text-align: left;
-  -webkit-text-stroke: 1px #88CC88;
   text-shadow: 1px 1px 1px #fff, 1px 1px 1px #fff;
   font-size: 27px;
 }
@@ -222,7 +216,6 @@ div#contact {
 .item-container h2 {
   color: #004400;
   text-align:left;
-  -webkit-text-stroke: 1px #88CC88;
 }
 
 
