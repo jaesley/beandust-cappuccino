@@ -13,10 +13,6 @@ body {
   margin: 0 auto;
 }
 
-/*.inside-col {
-  display: inline-block;
-}*/
-
 #col h3 {
   color: #004400;
   text-align: center;
@@ -76,7 +72,8 @@ div#contact {
   min-height: 70vh;
   margin: 0 auto;
   max-width: 75%;
-  background-color: hsla(31, 70%, 80%, 0.5);
+  background-color: linen;
+  opacity: 0.8%;
   padding: 5px 40px;
   border-radius: 15px;
 }
@@ -315,8 +312,8 @@ nav#guts button {
 }
 
 nav button:hover {
-  background-color: #804515;
-  color: white;
+  background-color: white;
+  color: #804515;
   font-family: 'Dosis', sans-serif;
 }
 
