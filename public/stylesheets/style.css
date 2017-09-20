@@ -312,8 +312,7 @@ nav#guts button {
 }
 
 nav button:hover {
-  background-color: white;
-  color: #804515;
+  opacity: 0.5;
   font-family: 'Dosis', sans-serif;
 }
 
